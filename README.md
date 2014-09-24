@@ -8,7 +8,7 @@ Testing
 
 None.
 
-Know to work with
+Known to work with
 ---------------
 
 Ubuntu 12.04, mcollective 2.6
@@ -21,5 +21,5 @@ Apache 2.0
 Usage
 ---------------
 
-mco apt clean
-mco apt update
+- mco apt clean
+- mco apt update
